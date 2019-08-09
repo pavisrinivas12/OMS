@@ -1,10 +1,10 @@
 # OMS
 Order Management System
 
-ORDER MANAGEMENT SYSTEM:
+Tools used:
 
-Tools to be used:
-Use any IDE to develop the project. It may be Eclipse /Myeclipse / Netbeans etc. I Have developed it using Netbeans.
+Use any IDE to develop the project. 
+It may be Eclipse /Myeclipse / Netbeans etc. I Have developed it using Netbeans.
 MySQL for the database.
 
 Front End and Back End
